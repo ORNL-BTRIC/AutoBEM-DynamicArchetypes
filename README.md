@@ -15,4 +15,4 @@ Sample command line inputs:
 
 python3 ~/WRF_Archetypes_Parallel.py -i ~/wrf-grids-origin_Vegas_Select_100.geojson -c ~/ClarkCounty2.csv -o ~/OutputArchetypes.csv -j 72 -e EPSG:4326
 
-- Using Geopandas Version 0.9.0 -
+**Using Geopandas Version 0.9.0**
