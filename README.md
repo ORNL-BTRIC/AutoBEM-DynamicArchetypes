@@ -10,3 +10,9 @@ The following inputs are required:
 3. Input table containing building metadata for area corresponding to shapefile (.csv) (https://zenodo.org/record/4552901#.YZQEotDMJPY - ClarkCounty2.csv)
 4. The number of cores that will be parallelized (integer)
 5. The output file name for the archetype table (.csv)
+
+Sample command line inputs:
+
+python3 ~/WRF_Archetypes_Parallel.py -i ~/wrf-grids-origin_Vegas_Select_100.geojson -c ~/ClarkCounty2.csv -o ~/OutputArchetypes.csv -j 72 -e EPSG:4326
+
+- Using Geopandas Version 0.9.0 -
