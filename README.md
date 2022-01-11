@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/428771973.svg)](https://zenodo.org/badge/latestdoi/428771973)
+
 # AutoBEM-DynamicArchetypes
 Automatic Building Energy Modeling (AutoBEM, https://bit.ly/AutoBEM) has been used to create an OpenStudio and EnergyPlus building energy model of 122.9 million U.S. buildings (https://bit.ly/ModelAmerica). Simulating and analyzing a model of every building for large areas (e.g. cities) is often not feasible. This dynamic archetyping capability uses a representative building and calculates a floor-space multiplier that allows millions of buildings to be represented by less than 100 buildings.
 
